@@ -93,7 +93,7 @@ Este projeto pode ser aplicado em:
 
 ## 👤 Autor
 
-**Erico Bonetti**  
+**Erico Bonilha**  
 Founder @ InsightEsfera  
 📧 admin@insightesfera.io  
 🌐 [insightesfera.io](https://insightesfera.io)
@@ -112,5 +112,6 @@ Contribuições são bem-vindas! Por favor:
 5. Abra um Pull Request
 
 ---
+
 
 *Desenvolvido com foco em segurança cibernética e proteção de dados*
